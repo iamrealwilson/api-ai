@@ -1,0 +1,15 @@
+[
+  {
+    "text": "Prompt: What is the capital of France?\nContext: Paris is the capital of France.\nAnswer: Paris",
+    "prompt": "What is the capital of France?",
+    "context": "Paris is the capital of France.",
+    "answer": "Paris"
+  },
+  {
+    "text": "Prompt: Who wrote the famous play 'Hamlet'?\nContext: William Shakespeare wrote the famous play 'Hamlet'.\nAnswer: William Shakespeare",
+    "prompt": "Who wrote the famous play 'Hamlet?'",
+    "context": "William Shakespeare wrote the famous play 'Hamlet'.",
+    "answer": "William Shakespeare"
+  }
+  // ... more data points
+]
